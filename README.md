@@ -2,6 +2,10 @@ base
 
 ---
 
+This repo is a reusable template with the following setup:
+
+- React + Vite - Tailwind CSS - Framer Motion - - Mozilla Headline, Inter, and Outfit fonts
+
 ## Usage
 
 ```bash
